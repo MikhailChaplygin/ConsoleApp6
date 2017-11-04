@@ -12,6 +12,7 @@ namespace ConsoleApp6
         {
 
             Console.WriteLine("Шаланды полные кефали");
+            Console.WriteLine("Кефалей полные штаны")
         }
     }
 }
